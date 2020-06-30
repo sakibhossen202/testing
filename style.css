@@ -33,8 +33,7 @@ p{
 }
 img{
     width:100%;
-    position: relative;
-    margin-bottom:20px;
+    
 }
 
 .header-bg{
@@ -58,14 +57,8 @@ section{
     
     
 }
-.work{
-    display:inline;
-    
-    
-}
- .client{
-     margin: 0 auto;
- }
+
+ 
  p.bold{
      font-weight: bold;
  }
