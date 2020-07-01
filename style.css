@@ -1,6 +1,7 @@
 body{
     font-family: poppins;
 }
+
 h1{
     font-size: 35px;
     font-weight:700;
@@ -87,4 +88,22 @@ section{
     background-image: url(images/latest-work-bg.png);
     background-repeat:no-repeat;
     background-size: cover;
+}
+.text-highlighter{
+    color:blue;
+}
+.shadow{
+    box-shadow: 10px 10px 40px orchid; ;
+    height: 400px;
+    width:40%;
+    padding:30px;
+    border-radius: 10px;
+    border-left: 7px solid;
+    border-image:linear-gradient(180deg, blue,lightgreen,lightseagreen);
+    border-image-slice: 1;
+}
+.font{
+    font-size:35px;
+    color:goldenrod;
+    font-weight:light;
 }
