@@ -7,7 +7,7 @@ h1{
     color:#EC4C7A;
 }
 h2.lighter-font{
-    font-weight: lighter;
+    font-weight:lighter;
 }
 p{
     font-weight: 100;
@@ -41,10 +41,11 @@ img{
     background-repeat:no-repeat;
 }
 section{
-    height:500px;
+    height:600px;
 }
 .biography-bg{
     background-image: url(images/biography-bg.png);
+    background-repeat:no-repeat;
 }
 .align{
     text-align: center;
@@ -73,3 +74,13 @@ section{
      font-weight: 700;
      font-size: 25px;
  }
+ .footer-styling{
+    background-image: url(images/footer-bg.png);
+    background-repeat:no-repeat;
+    
+}
+.latest-work-bg{
+    
+    background-image: url(images/latest-work-bg.png);
+    background-repeat:no-repeat;
+}
