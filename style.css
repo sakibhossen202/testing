@@ -39,13 +39,15 @@ img{
 .header-bg{
     background-image: url(images/header-bg.png);
     background-repeat:no-repeat;
+    background-size: cover;
 }
 section{
-    height:600px;
+    height:605px;
 }
 .biography-bg{
     background-image: url(images/biography-bg.png);
     background-repeat:no-repeat;
+    background-size: cover;
 }
 .align{
     text-align: center;
@@ -77,10 +79,12 @@ section{
  .footer-styling{
     background-image: url(images/footer-bg.png);
     background-repeat:no-repeat;
+    background-size: cover;
     
 }
 .latest-work-bg{
     
     background-image: url(images/latest-work-bg.png);
     background-repeat:no-repeat;
+    background-size: cover;
 }
